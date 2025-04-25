@@ -8,7 +8,7 @@
 
 ---
 
-# Numerica Sign
+# Numerical Signs
 ---
 - Positive
 - Negative
