@@ -1,15 +1,15 @@
 # Comparisons
+---
+- Greater than
+- Less than
+- Greater than or equal 
+- Less than or equal
+- equals
 
-## Greater than
-## Less than
-## Greater than or equal 
-## Less than or equal
-## equals
-
-
+---
 
 # Numerica Sign
-
-## Positive
-## Negative
-## Neutral (Zero)
+---
+- Positive
+- Negative
+- Neutral (Zero)
