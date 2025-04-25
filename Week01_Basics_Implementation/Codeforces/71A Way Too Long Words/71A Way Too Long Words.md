@@ -9,7 +9,7 @@
 - Goal: output the long words with a special format else output the same word
 - Condition : long words must have a length greater than 10
 - Output
-- - If length > 10  Then output First letter + (length of the word - 2) + Last Letter
+  - If length > 10  Then output First letter + (length of the word - 2) + Last Letter
   - Else output the same word
 
 ## ❌ What I Did Wrong
