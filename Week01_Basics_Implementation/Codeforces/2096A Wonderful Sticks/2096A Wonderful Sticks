@@ -1,0 +1,20 @@
+# Problem: CF 2096A - Wonderful Sticks
+
+## ❓ Idea
+- Data Structures(Vector)
+- Basic if conditions and loops
+- Greedy
+
+## 🧠 Insight
+- Goal: Find any valid arrangement of sticks
+- Conditions:
+     - The length of each stick is DISTINCT
+     - If si = < , then the length of the stick at position i+1 must be smaller than all sticks before it
+     - If si = > , then the length of the stick at position i+1 must be larger than all sticks before it
+- Greedy: We were greedy here by choosing either the maximum or minimum current number for the indices of the vector from the back
+
+## ❌ What I Did Wrong
+- Stored the answer in a string instead of a vector, which limited the possible number at each index to 0 - 9
+
+## ✅ Takeaway
+- Greedy approach is deadly, happily the pattern was easy to detect from the sample inputs and outputs; This topic needs more training.
